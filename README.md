@@ -1,21 +1,32 @@
-📊 Planilha de Vendas — 
+# 📊 Funções com Excel: Operações Matemáticas e Filtros
 
-Projeto desenvolvido durante o curso Excel: Domine o Editor de Planilhas (Alura)
+## 📝 Sobre o Projeto
+Planilha de controle de estoque desenvolvida durante o curso, 
+usando a loja fictícia **Meteora** como case prático.
 
-📌 Sobre o projeto
+## 🛠️ Funções Aprendidas
+- `CONT.SE()` e `CONT.SES()` — contagem condicional
+- `MÉDIASE()` — média com critério
+- `SOMASE()` e `SOMASES()` — soma condicional
+- Validação de dados e filtros avançados
 
-Planilha de controle de vendas da loja fictícia Meteora, com gestão de produtos por categoria, cálculo automático de descontos e valor total.
+## 📊 Resultados da Planilha Meteora
 
-🛠️ Funcionalidades
+| Categoria        | Qtd Produtos | Qtd em Estoque | Média/Produto |
+|------------------|:------------:|:--------------:|:-------------:|
+| Todos os produtos | 37          | 196            | 5,03          |
+| Calça Legging    | 3            | 10             | 3,33          |
+| Acessórios       | 6            | 40             | —             |
 
-Tabela estruturada com filtros por Produto, Tamanho e Categoria
+💰 **Valor total do estoque: R$ 15.382,08**
 
-Cálculo automático de Valor com Desconto e Valor Total
+## 📸 Screenshots
 
-Total geral de 132 itens vendidos — R$ 9.205,02
+<img width="776" height="716" alt="Captura de tela 2026-04-27 213150" src="https://github.com/user-attachments/assets/e0d59d34-6d4c-44ea-9a9f-2da46b3097ad" />
+
+<img width="1700" height="411" alt="Captura de tela 2026-04-27 213141" src="https://github.com/user-attachments/assets/9457095e-ef7e-4a15-8b53-6ae1c6762541" />
 
 ## 📂 Tecnologias
 
 Microsoft Excel
 
-<img width="1197" height="635" alt="Captura de tela 2026-03-11 205325" src="https://github.com/user-attachments/assets/c5f93f43-0d17-48ff-97c2-eabe58468099" />
